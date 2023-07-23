@@ -1,6 +1,5 @@
 # STOPWATCH
-# STOPWATCH (Made using HTML5 CSS3 and JavaScript)
-site is live at https://khushbookachhi.github.io/StopWatch-frontEnd-skillTest/
+# STOPWATCH (Made using HTML5 CSS3 and JavaScript
 
 ABOUT THIS PROJECT-:
 
